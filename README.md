@@ -4,6 +4,7 @@ Este proyecto es un backend en Java con Spring Boot para la empresa Letras & Pap
 - Seguridad con roles (CLIENTE y ADMIN)
 - Endpoints protegidos
 - Base de datos MySQL
+
 🔐 Cómo iniciar
 1. Clona este proyecto
 2. Configura tu base de datos en `application.properties`
